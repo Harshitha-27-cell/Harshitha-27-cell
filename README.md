@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kachapuram Harshitha</h1>
-<h3 align="center">"Frontend Developer | AI Builder | Cloud Intern | Hackathon Winner"</h3>
+<h3 align="center">Frontend Developer | AI Builder | Cloud Intern | Tejas 2K25 & Visionova Hackathon Winner</h3>
 
-- 🔭 I’m currently working on [ai based realestate valuation system](https://github.com/Springboard-Internship-2025/AI-Based-Real-Estate-Valuation-System_August_2025)
+- 🔭 I’m currently working on [AI Based Real Estate Valuation System](https://github.com/Springboard-Internship-2025/AI-Based-Real-Estate-Valuation-System_August_2025)
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on innovative frontend and AI-based projects.**
+- 👯 I’m looking to collaborate on **innovative frontend and AI-based projects.**
 
-- 🤝 I’m looking for help with **🤔 I’m looking for help with optimizing machine learning models and advanced backend integration.**
+- 🤝 I’m looking for help with **optimizing machine learning models and advanced backend integration.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshitha-27-cell](https://github.com/Harshitha-27-cell)
 
-- 💬 Ask me about **Python,HTML,CSSand Google Cloud**
+- 💬 Ask me about **Python,HTML,CSS and Google Cloud**
 
 - 📫 How to reach me **kachapuramharshitha@gmail.com**
 
-- ⚡ Fun fact **I break things just to fix them better. And yes, it’s part of the process! 🔧🔥**
+- ⚡ Fun fact **I break things just to fix them better. And yes, it’s part of the process! 🔧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
