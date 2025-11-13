@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kachapuram Harshitha</h1>
+<h1 align="center">Hi 👋, I'm Kachapuram Harshitha </h1>
 <h3 align="center">Frontend Developer | AI Builder | Cloud Intern | Tejas 2K25 & Visionova Hackathon Winner</h3>
 
 - 🔭 I’m currently working on [AI Based Real Estate Valuation System](https://github.com/Springboard-Internship-2025/AI-Based-Real-Estate-Valuation-System_August_2025)
